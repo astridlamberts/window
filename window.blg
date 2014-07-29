@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: window.aux
+The style file: apj.bst
+Database file #1: windowNotes.bib
+Database file #2: biblio_total.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in 1981csup.book.....H
+Warning--can't use both author and editor fields in Peebles
+You've used 59 entries,
+            3085 wiz_defined-function locations,
+            1114 strings with 26111 characters,
+and the built_in function-call counts, 32406 in all, are:
+= -- 2340
+> -- 3062
+< -- 20
++ -- 1019
+- -- 1078
+* -- 3064
+:= -- 6314
+add.period$ -- 59
+call.type$ -- 59
+change.case$ -- 396
+chr.to.int$ -- 59
+cite$ -- 61
+duplicate$ -- 1113
+empty$ -- 1661
+format.name$ -- 1161
+if$ -- 6218
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 59
+newline$ -- 181
+num.names$ -- 237
+pop$ -- 430
+preamble$ -- 1
+purify$ -- 396
+quote$ -- 0
+skip$ -- 912
+stack$ -- 0
+substring$ -- 1161
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 525
+warning$ -- 2
+while$ -- 223
+width$ -- 0
+write$ -- 593
+(There were 2 warnings)

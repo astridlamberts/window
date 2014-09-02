@@ -75,21 +75,24 @@ Self-consistently studying the evolution of the IGM from first principles involv
 \section {Determining the window function}\label{window}
 \ALc{I tried to simplify the following section but couldn't really find a satisfactory way of doing it so I just reorganized it}
 \ALc{\subsection{Intuitive understanding}}
+
 One zone \ALc{models} \citep{2012ApJ...752...23C,2012ApJ...752...24P} and numerical \ALc{simulations \sout{models}} \citep{2012MNRAS.423..149P} of blazar heating on the IGM assume that the heating is uniform.  Because the heating rate depends on the local density of EBL and TeV photons, the assumption of uniform heating implies that the distributions of EBL and TeV photons are uniform.  \ALc{For EBL photons, this is likely the case, as the mean free path is larger than the Hubble length. However for TeV photons the mean free path compares with the separation between TeV sources for $z\geqslant$ 1, so the {\it spatial} fluctuations in the heating rate are likely nontrivial. Moreover, the sources of TeV photons tend to be clustered and so the IGM near these clustered regions will get an increased flux of photons due to both a $1/r^2$ increases as well as an increased number of sources.}  
 
-Our goal is to include a more realistic model for heating due to TeV blazars in numerical simulations. Determining the formation, evolution and impact of supermassive black holes in numerical simulations at cosmological scales cannot be done in a fully self-consistent manner. The length scales involved are far smaller than the allowed numerical resolution and detailed modeling involves gravitational interaction and hydrodynamics but also radiative transfer and plasma physics. Therefore, one resorts to semi-analytic approaches or subgrid models, which necessarily rely on some parametrization of the underlying physics (see e.g.\citet{2007MNRAS.380..877S}). 
-We choose a different approach, where the heating fluctuations are modeled \ALc{in} a more statistical manner. The heating rate $\dot{q}$ can expressed as a mean heating rate $\bar{\dot{q}}$ plus a small fluctuation $\delta_H$.
+Our goal is to include a more realistic model for heating due to TeV blazars in numerical simulations. \Pc{To properly calculate the heating fluctuations due to TeV blazar heating, the formation and evolution of accreting supermassive black holes must be modeled in a full self-consistent cosmological simulation.  In addition, the TeV radiation from these systems must be ray-traced through the simulation volume.  Such a task is computationally intractable.  As a result, we have elected to model this TeV blazar heating in a more statistical manner.  We assume that TeV blazars are associated with galaxies and that they roughly emit over $4\pi$ sterradian.  The latter assumption remains valid so long as the number of TeV blazars is large enough such that every spot in the universe it illuminated by a few TeV blazars.  \sout{. Determining the formation, evolution and impact of supermassive black holes in numerical simulations at cosmological scales cannot be done in a fully self-consistent manner. The length scales involved are far smaller than the allowed numerical resolution and detailed modeling involves gravitational interaction and hydrodynamics but also radiative transfer and plasma physics. Therefore, one resorts to semi-analytic approaches or subgrid models, which necessarily rely on some parametrization of the underlying physics (see e.g.\citet{2007MNRAS.380..877S}). 
+We choose a different approach, where the heating fluctuations are modeled \ALc{in} a more statistical manner.} } \Pc{We can also relate the overdensity of galaxies to the dark matter overdensities.  In this manner, we compute the fluctuations of TeV blazar heating in a statistical sense.}  
+
+\Pc{To show this more explicitly, we begin by expressing the heating rate $\dot{q}$ \sout{can expressed}} as a mean heating rate $\bar{\dot{q}}$ plus a small fluctuation $\delta_H$.
 \begin{equation}
   \label{eq:delta_h}
   \dot{q}=\bar{\dot{q}}(1+\delta_H).
 \end{equation}
 
-\ALc{We map the heating fluctuations $\delta_H$ to the underlying dark matter overdensity in a given region $\delta$, by using a method that closely follows the work of  \citet{2007MNRAS.376.1680P} and \citet{2005ApJ...626....1B} . The overdensity of a region of radius $r$, centered on $\mathbf{x}$ is given by
+\ALc{We map the heating fluctuations $\delta_H$ to the underlying dark matter overdensity in a given region $\delta$, by using a method that closely follows the work of  \citet{2007MNRAS.376.1680P} and \citet{2005ApJ...626....1B}. The overdensity of a region of radius $r$, centered on $\mathbf{x}$ is given by
 \begin{equation}
   \label{eq:delta}
   \delta(\mathbf{x},r)=\frac{\rho(\mathbf{x})-\bar{\rho}(r)}{\bar{\rho}(r)}
 \end{equation}
-with $\rho$ the local density and $\bar{\rho}$ its average over the whole region.} The method is based on a Taylor expansion of the quantities describing the TeV sources and keeping only the first order corrections in Fourier space.  \ALc{We thus have}
+with $\rho$ the local density and $\bar{\rho}$ its average over the whole region.} \Pc{After Fourier transforming the dark matter density field, we then compute the overdensity of galaxies using an appropriate bias function.  Following \citet{2007MNRAS.376.1680P} and \citet{2005ApJ...626....1B}, we can then convert an integral over all the sources of TeV} The method is based on a Taylor expansion of the quantities describing the TeV sources and keeping only the first order corrections in Fourier space.  \ALc{We thus have}
 \begin{equation}
   \label{eq:use_window}
   \tilde{\delta}_H=\tilde{W}_H\tilde{\delta},
@@ -104,7 +107,7 @@ The heating rate per baryon at a given point is
 \label{eq:heating_rate}
   \dot{q}(\mathbf{x})= \frac{\ALc{\sout{E_0}}}{4\pi}  \int_{\Omega}\int_0^{r_{max}}   \mathcal{E}(\mathbf{r}'+\mathbf{x})\sigma  e^{-\tau}d\Omega dr' ,
 \end{equation}
-
+\Pc{This equation is key to understanding how the window function works.  You might want to move it up to (1)}
 %\ALc{This is removed here and goes further down:\sout{
 \ALc{\sout {$E_0$ is the mean energy of the TeV photons and }}  $\mathcal{E}$ is the emissivity of the sources (\ALc{\sout{photons} energy} per unit time, per unit volume). $\sigma$ (in cm$^{-2}$) is the energy-averaged cross section for pair production on the extragalactic background light and $\tau$ is the associated optical depth along the line of sight. %}}
 \Pc{ASTRID: Might want to keep this more general and then just use average energy later on}
@@ -245,9 +248,9 @@ Fig. \ref{fig:heating_ratio} shows the ratio of the internal energy due to  blaz
 %temperature: integrated heating rate.
 
 
-Blazar heating preferentially affects underdense regions, and this is visible on the temperature density relation shown on Fig. \ref{fig:T_rho}. The colormap shows the mass weighted $T-\rho$ relation from our simulations and the grey contours show the case for uniform blazar heating. When the clustering is taken into account, the temperature-density relation has a significant scatter for underdense regions. The scatter decreases with redshift as all regions of the universe have been affected by at least on TeV blazar. The temperature shows the impact of blazars \textit{integrated} over time, and thus asymptotically tends to the uniform case. At $z=1$ both simulations have a very similar outcome and blazar heating can be considered as uniform. For $z\geqslant 2$ the scatter is important :  the coldest zones have $T\simeq 10 000K$ while the warmest zones have $T\simeq 30 000K$ for $z=3$. 
+Blazar heating preferentially affects underdense regions, and this is visible on the temperature density relation shown on Fig. \ref{fig:T_rho}. The colormap shows the mass weighted $T-\rho$ relation from our simulations and the grey contours show the case for uniform blazar heating. When the clustering is taken into account, the temperature-density relation has a significant scatter for underdense regions. \Pc{This scatter results in the lower envelope of the temperature-density relation to change little from the case with no blazar heating.  However, the mean temperature follows the uniform blazar heated case. }The scatter decreases with redshift as all regions of the universe have been affected by at least on TeV blazar. The temperature shows the impact of blazars \textit{integrated} over time, and thus asymptotically tends to the uniform case. At $z=1$ both simulations have a very similar outcome and blazar heating can be considered as uniform\Pc{, though the lower envelope sits at a lower temperature}. For $z\geqslant 2$ the scatter is important :  the coldest zones have $T\simeq 10 000K$ while the warmest zones have $T\simeq 30 000K$ for $z=3$. 
 
-Fig, \ref{fig:PDF} shows the mass-weighted and volume-weighted probability distribution functions of the temperature for all the simulations. 
+Fig, \ref{fig:PDF} shows the mass-weighted and volume-weighted probability distribution functions of the temperature for all the simulations. \Pc{Here the effect of the lower envelope is clear as their is a significant tail toward lower temperatures both in mass and volume.  Especially prominent are the tails at $z = 2$ and 3, which shows the the effect of nonuniformity plays a big role here.} 
 % For $z\leqslant 4$, inhomogeneous blazar heating results in a lower average temperature and a larger scatter than the uniform case. \textit{The uniform case has a higher resolution, so the differences between the curves might be related to the resolution. I will test how this plot evolves with resolution}.  
 
 

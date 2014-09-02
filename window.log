@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  28 JUL 2014 14:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.8)  28 AUG 2014 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **window.tex
 (./window.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+Babel <3.9f> and hyphenation patterns for 6 languages loaded.
 (./emulateapj.cls
 Document Class: emulateapj 
 \bibbaselineskip=\skip41
-(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/revtex4-1.cls
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-1.cls
 Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
 ex4/ for documentation)
  Copyright (c) 2009 The American Physical Society.
@@ -71,7 +71,7 @@ Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 
 Class revtex4-1 Warning: No Society specified, using default society aps.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps4-1.rtx
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps4-1.rtx
 File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
 mentation)
 Class revtex4-1 Info: RevTeX society APS selected on input line 31.
@@ -83,19 +83,19 @@ Class revtex4-1 Info: APS journal PRA selected on input line 7545.
 
 Class revtex4-1 Warning: No type size specified, using default 10.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
 File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
 documentation)
 Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/textcase/textcase.sty
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -104,42 +104,42 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revsymb4-1.sty
 Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
 or documentation)
 LaTeX Info: Redefining \REV@mathfrak on input line 119.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count95
@@ -147,10 +147,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup5
@@ -160,7 +160,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 LaTeX Info: Redefining \frak on input line 111.
 LaTeX Info: Redefining \Bbb on input line 113.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip47
 \LTright=\skip48
@@ -178,7 +178,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count100
 \LT@p@ftn=\toks18
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/epsf/epsf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/epsf/epsf.sty
 This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsffilein=\read1
 \epsfframemargin=\dimen105
@@ -210,26 +210,26 @@ This is `epsf.tex' v2.7.4 <14 February 2011>
 \DT@p@ftn=\toks21
 \pt@column=\count107
 \pt@ncol=\count108
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks22
 \ex@=\dimen115
 )
 LaTeX Info: Redefining \text on input line 39.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen116
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count109
@@ -269,9 +269,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-)
-(./aas_macros.sty)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/ulem/ulem.sty
+) (./aas_macros.sty) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box47
 \UL@hyphenbox=\box48
 \UL@skip=\skip61
@@ -283,10 +281,10 @@ LaTeX Info: Redefining \] on input line 2666.
 Package: ulem 2012/05/18
 \ULdepth=\dimen126
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
@@ -334,7 +332,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
- (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count122
 \scratchdimen=\dimen127
@@ -347,15 +345,15 @@ LaTeX Font Info:    ... okay on input line 24.
 \MPnumerator=\count126
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks29
-) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -364,22 +362,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -391,7 +389,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -399,17 +397,17 @@ e
 
 LaTeX Font Info:    Try loading font information for U+lasy on input line 34.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 2310) in paragraph at lines 45--46
@@ -417,291 +415,351 @@ Underfull \hbox (badness 2310) in paragraph at lines 45--46
 /m/n/10 100 GeV).
  []
 
-[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (19.66702pt too wide) in paragraph at lines 101--103
-|   []
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! Extra }, or forgotten \endgroup.
+\UL@stop ...z@ \else \UL@putbox \fi \else \egroup 
+                                                  \egroup \UL@putbox \fi \if...
+l.82 ...led \ALc{in} a more statistical manner.} }
+                                                   \Pc{We can also relate th...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ... \UL@putbox \fi \else \egroup \egroup 
+                                                  \UL@putbox \fi \ifnum \UL@...
+l.82 ...led \ALc{in} a more statistical manner.} }
+                                                   \Pc{We can also relate th...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 ...led \ALc{in} a more statistical manner.} }
+                                                   \Pc{We can also relate th...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 ...led \ALc{in} a more statistical manner.} }
+                                                   \Pc{We can also relate th...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 81--83
+|   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 81--83
+|   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 81--83
+|   []   |   []   |   []   |   []   |   []
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 81--83
+|   []   |   []   |   []   |   []   |   []   |   []
  []
 
 [2]
-Overfull \hbox (20.51149pt too wide) detected at line 148
+Overfull \hbox (19.66702pt too wide) in paragraph at lines 104--106
+|   []
+ []
+
+
+Overfull \hbox (20.51149pt too wide) detected at line 151
 \OT1/cmr/m/n/10 ^^H[](\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 ) = 10[]\OML/cmm/m/it/1
 0 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 \OT1/cmr/m/n/10 with $\OML/cmm/m/it/10 ^^O[] \OT1/cmr/m/n/10 = (1\OML/cmm/m/it/
 10 :\OT1/cmr/m/n/10 7 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\
 OT1/cmr/m/n/10 8) \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 10[]$erg s$[]$
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 156--158
+Underfull \hbox (badness 2376) in paragraph at lines 159--161
 \OT1/cmr/m/n/10 cm$[]$[]|   []   |   []   |   []   |   [][] the cur-
  []
 
+[3]
 Package epstopdf Info: Source file: <full_window.eps>
-(epstopdf)                    date: 2014-02-06 17:21:02
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 84761 bytes
 (epstopdf)             Output file: <full_window-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-07-27 16:25:12
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 8466 bytes
 (epstopdf)             Command: <repstopdf --outfile=full_window-eps-converted-
 to.pdf full_window.eps>
-(epstopdf)             \includegraphics on input line 173.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
-<full_window-eps-converted-to.pdf, id=27, 361.35pt x 361.35pt>
+ <full_window-eps-converted-to.pdf, id=31, 361.35pt x 361.35pt>
 File: full_window-eps-converted-to.pdf Graphic file (type pdf)
 
 <use full_window-eps-converted-to.pdf>
 Package pdftex.def Info: full_window-eps-converted-to.pdf used on input line 17
-3.
+6.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
 
+Underfull \hbox (badness 1845) in paragraph at lines 196--198
+[]|   []   |   []   |   []   |   []   |   []   |   []
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[4 <./full_window-eps-converted-to.pdf>]
+<data_delta_z4_256.pdf, id=40, 867.24pt x 325.215pt>
+File: data_delta_z4_256.pdf Graphic file (type pdf)
 
-[3]
+<use data_delta_z4_256.pdf>
+Package pdftex.def Info: data_delta_z4_256.pdf used on input line 223.
+(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 189.
+<data_delta_z3_256.pdf, id=41, 867.24pt x 325.215pt>
+File: data_delta_z3_256.pdf Graphic file (type pdf)
+
+<use data_delta_z3_256.pdf>
+Package pdftex.def Info: data_delta_z3_256.pdf used on input line 224.
+(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
+
+<data_delta_z2_256.pdf, id=42, 867.24pt x 325.215pt>
+File: data_delta_z2_256.pdf Graphic file (type pdf)
+
+<use data_delta_z2_256.pdf>
+Package pdftex.def Info: data_delta_z2_256.pdf used on input line 225.
+(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
+
+<data_delta_z1_256.pdf, id=43, 867.24pt x 325.215pt>
+File: data_delta_z1_256.pdf Graphic file (type pdf)
+
+<use data_delta_z1_256.pdf>
+Package pdftex.def Info: data_delta_z1_256.pdf used on input line 226.
+(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 189.
+LaTeX Warning: Float too large for page by 3.31522pt on input line 229.
+
+<data_U_z4_256.pdf, id=44, 361.35pt x 325.215pt>
+File: data_U_z4_256.pdf Graphic file (type pdf)
+ <use data_U_z4_256.pdf>
+Package pdftex.def Info: data_U_z4_256.pdf used on input line 233.
+(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
+
+<data_U_z3_256.pdf, id=45, 361.35pt x 325.215pt>
+File: data_U_z3_256.pdf Graphic file (type pdf)
+ <use data_U_z3_256.pdf>
+Package pdftex.def Info: data_U_z3_256.pdf used on input line 234.
+(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
+
+<data_U_z2_256.pdf, id=46, 361.35pt x 325.215pt>
+File: data_U_z2_256.pdf Graphic file (type pdf)
+ <use data_U_z2_256.pdf>
+Package pdftex.def Info: data_U_z2_256.pdf used on input line 235.
+(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
+
+<data_U_z1_256.pdf, id=47, 361.35pt x 325.215pt>
+File: data_U_z1_256.pdf Graphic file (type pdf)
+ <use data_U_z1_256.pdf>
+Package pdftex.def Info: data_U_z1_256.pdf used on input line 236.
+(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
+
+<T_rho_z4_256.pdf, id=48, 578.16pt x 433.62pt>
+File: T_rho_z4_256.pdf Graphic file (type pdf)
+ <use T_rho_z4_256.pdf>
+Package pdftex.def Info: T_rho_z4_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
+
+<T_rho_z3_256.pdf, id=49, 578.16pt x 433.62pt>
+File: T_rho_z3_256.pdf Graphic file (type pdf)
+ <use T_rho_z3_256.pdf>
+Package pdftex.def Info: T_rho_z3_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
+
+<T_rho_z2_256.pdf, id=50, 578.16pt x 433.62pt>
+File: T_rho_z2_256.pdf Graphic file (type pdf)
+ <use T_rho_z2_256.pdf>
+Package pdftex.def Info: T_rho_z2_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
+
+<T_rho_z1_256.pdf, id=51, 578.16pt x 433.62pt>
+File: T_rho_z1_256.pdf Graphic file (type pdf)
+ <use T_rho_z1_256.pdf>
+Package pdftex.def Info: T_rho_z1_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
+
+<full_PDF_256.pdf, id=52, 361.35pt x 325.215pt>
+File: full_PDF_256.pdf Graphic file (type pdf)
+ <use full_PDF_256.pdf>
+Package pdftex.def Info: full_PDF_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 193.95938pt.
+
+<mass_weighted_PDF_256.pdf, id=53, 361.35pt x 325.215pt>
+File: mass_weighted_PDF_256.pdf Graphic file (type pdf)
+
+<use mass_weighted_PDF_256.pdf>
+Package pdftex.def Info: mass_weighted_PDF_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 215.50838pt x 193.95938pt.
+
+
+Class revtex4-1 Warning: Float cannot be placed.
+
+<delta_deltah_z4_vol_256.pdf, id=54, 614.295pt x 527.57097pt>
+File: delta_deltah_z4_vol_256.pdf Graphic file (type pdf)
+
+<use delta_deltah_z4_vol_256.pdf>
+Package pdftex.def Info: delta_deltah_z4_vol_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
+
+<delta_deltah_z3_vol_256.pdf, id=55, 614.295pt x 527.57097pt>
+File: delta_deltah_z3_vol_256.pdf Graphic file (type pdf)
+
+<use delta_deltah_z3_vol_256.pdf>
+Package pdftex.def Info: delta_deltah_z3_vol_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
+
+<delta_deltah_z2_vol_256.pdf, id=56, 614.295pt x 527.57097pt>
+File: delta_deltah_z2_vol_256.pdf Graphic file (type pdf)
+
+<use delta_deltah_z2_vol_256.pdf>
+Package pdftex.def Info: delta_deltah_z2_vol_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
+
+<delta_deltah_z1_vol_256.pdf, id=57, 614.295pt x 527.57097pt>
+File: delta_deltah_z1_vol_256.pdf Graphic file (type pdf)
+
+<use delta_deltah_z1_vol_256.pdf>
+Package pdftex.def Info: delta_deltah_z1_vol_256.pdf used on input line 291.
+(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
+
+
+Class revtex4-1 Warning: Float cannot be placed.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 296.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 296.
+ [5] [6 <./data_delta_z4_256.pdf> <./data_delta_z3_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_delta_z3_256.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./data_delta_z2_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_delta_z2_256.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./data_delta_z1_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_delta_z1_256.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 308.
+
+[7 <./data_U_z4_256.pdf> <./data_U_z3_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_U_z3_256.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./data_U_z2_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_U_z2_256.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./data_U_z1_256.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./data_U_z1_256.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 308.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
+[8 <./T_rho_z4_256.pdf> <./T_rho_z3_256.pdf
 
-Underfull \hbox (badness 1845) in paragraph at lines 193--195
-[]|   []   |   []   |   []   |   []   |   []   |   []
- []
-
-<data_delta_z4_256.pdf, id=32, 867.24pt x 325.215pt>
-File: data_delta_z4_256.pdf Graphic file (type pdf)
-
-<use data_delta_z4_256.pdf>
-Package pdftex.def Info: data_delta_z4_256.pdf used on input line 220.
-(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
-
-<data_delta_z3_256.pdf, id=33, 867.24pt x 325.215pt>
-File: data_delta_z3_256.pdf Graphic file (type pdf)
-
-<use data_delta_z3_256.pdf>
-Package pdftex.def Info: data_delta_z3_256.pdf used on input line 221.
-(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
-
-<data_delta_z2_256.pdf, id=34, 867.24pt x 325.215pt>
-File: data_delta_z2_256.pdf Graphic file (type pdf)
-
-<use data_delta_z2_256.pdf>
-Package pdftex.def Info: data_delta_z2_256.pdf used on input line 222.
-(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
-
-<data_delta_z1_256.pdf, id=35, 867.24pt x 325.215pt>
-File: data_delta_z1_256.pdf Graphic file (type pdf)
-
-<use data_delta_z1_256.pdf>
-Package pdftex.def Info: data_delta_z1_256.pdf used on input line 223.
-(pdftex.def)             Requested size: 436.15294pt x 163.55988pt.
-
-
-LaTeX Warning: Float too large for page by 3.31522pt on input line 226.
-
-<data_U_z4_256.pdf, id=36, 361.35pt x 325.215pt>
-File: data_U_z4_256.pdf Graphic file (type pdf)
- <use data_U_z4_256.pdf>
-Package pdftex.def Info: data_U_z4_256.pdf used on input line 230.
-(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
-
-<data_U_z3_256.pdf, id=37, 361.35pt x 325.215pt>
-File: data_U_z3_256.pdf Graphic file (type pdf)
- <use data_U_z3_256.pdf>
-Package pdftex.def Info: data_U_z3_256.pdf used on input line 231.
-(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
-
-<data_U_z2_256.pdf, id=38, 361.35pt x 325.215pt>
-File: data_U_z2_256.pdf Graphic file (type pdf)
- <use data_U_z2_256.pdf>
-Package pdftex.def Info: data_U_z2_256.pdf used on input line 232.
-(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
-
-<data_U_z1_256.pdf, id=39, 361.35pt x 325.215pt>
-File: data_U_z1_256.pdf Graphic file (type pdf)
- <use data_U_z1_256.pdf>
-Package pdftex.def Info: data_U_z1_256.pdf used on input line 233.
-(pdftex.def)             Requested size: 205.24384pt x 184.71944pt.
-
-[4 <./full_window-eps-converted-to.pdf>] [5 <./data_delta_z4_256.pdf> <./data_d
-elta_z3_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_delta_z3_256.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
-> <./data_delta_z2_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_delta_z2_256.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
-> <./data_delta_z1_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_delta_z1_256.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
->]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 288.
-
-[6 <./data_U_z4_256.pdf> <./data_U_z3_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_U_z3_256.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
-> <./data_U_z2_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_U_z2_256.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
-> <./data_U_z1_256.pdf
-
-pdfTeX warning: pdflatex (file ./data_U_z1_256.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
->] <T_rho_z4_256.pdf, id=195726, 578.16pt x 433.62pt>
-File: T_rho_z4_256.pdf Graphic file (type pdf)
- <use T_rho_z4_256.pdf>
-Package pdftex.def Info: T_rho_z4_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
-
-<T_rho_z3_256.pdf, id=195727, 578.16pt x 433.62pt>
-File: T_rho_z3_256.pdf Graphic file (type pdf)
- <use T_rho_z3_256.pdf>
-Package pdftex.def Info: T_rho_z3_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
-
-<T_rho_z2_256.pdf, id=195728, 578.16pt x 433.62pt>
-File: T_rho_z2_256.pdf Graphic file (type pdf)
- <use T_rho_z2_256.pdf>
-Package pdftex.def Info: T_rho_z2_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
-
-<T_rho_z1_256.pdf, id=195729, 578.16pt x 433.62pt>
-File: T_rho_z1_256.pdf Graphic file (type pdf)
- <use T_rho_z1_256.pdf>
-Package pdftex.def Info: T_rho_z1_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
-
-<full_PDF_256.pdf, id=195730, 361.35pt x 325.215pt>
-File: full_PDF_256.pdf Graphic file (type pdf)
- <use full_PDF_256.pdf>
-Package pdftex.def Info: full_PDF_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 193.95938pt.
-
-<mass_weighted_PDF_256.pdf, id=195731, 361.35pt x 325.215pt>
-File: mass_weighted_PDF_256.pdf Graphic file (type pdf)
-
-<use mass_weighted_PDF_256.pdf>
-Package pdftex.def Info: mass_weighted_PDF_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 215.50838pt x 193.95938pt.
-
-
-Class revtex4-1 Warning: Float cannot be placed.
-
-<delta_deltah_z4_vol_256.pdf, id=195732, 614.295pt x 527.57097pt>
-File: delta_deltah_z4_vol_256.pdf Graphic file (type pdf)
-
-<use delta_deltah_z4_vol_256.pdf>
-Package pdftex.def Info: delta_deltah_z4_vol_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
-
-<delta_deltah_z3_vol_256.pdf, id=195733, 614.295pt x 527.57097pt>
-File: delta_deltah_z3_vol_256.pdf Graphic file (type pdf)
-
-<use delta_deltah_z3_vol_256.pdf>
-Package pdftex.def Info: delta_deltah_z3_vol_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
-
-<delta_deltah_z2_vol_256.pdf, id=195734, 614.295pt x 527.57097pt>
-File: delta_deltah_z2_vol_256.pdf Graphic file (type pdf)
-
-<use delta_deltah_z2_vol_256.pdf>
-Package pdftex.def Info: delta_deltah_z2_vol_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
-
-<delta_deltah_z1_vol_256.pdf, id=195735, 614.295pt x 527.57097pt>
-File: delta_deltah_z1_vol_256.pdf Graphic file (type pdf)
-
-<use delta_deltah_z1_vol_256.pdf>
-Package pdftex.def Info: delta_deltah_z1_vol_256.pdf used on input line 288.
-(pdftex.def)             Requested size: 123.151pt x 105.76187pt.
-
-
-Class revtex4-1 Warning: Float cannot be placed.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 293.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 293.
- [7] [8 <./T_rho_z4_256.pdf> <./T_rho_z3_256.pdf
-
-pdfTeX warning: pdflatex (file ./T_rho_z3_256.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./T_rho_z3_256.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./T_rho_z2_256.pdf
 
-pdfTeX warning: pdflatex (file ./T_rho_z2_256.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./T_rho_z2_256.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./T_rho_z1_256.pdf
 
-pdfTeX warning: pdflatex (file ./T_rho_z1_256.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./T_rho_z1_256.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 366.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 347.
 
 [9 <./full_PDF_256.pdf> <./mass_weighted_PDF_256.pdf
 
-pdfTeX warning: pdflatex (file ./mass_weighted_PDF_256.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./mass_weighted_PDF_256.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
 > <./delta_deltah_z4_vol_256.pdf
 
-pdfTeX warning: pdflatex (file ./delta_deltah_z4_vol_256.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./delta_deltah_z4_vol_256.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
 > <./delta_deltah_z3_vol_256.pdf
 
-pdfTeX warning: pdflatex (file ./delta_deltah_z3_vol_256.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./delta_deltah_z3_vol_256.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
 > <./delta_deltah_z2_vol_256.pdf
 
-pdfTeX warning: pdflatex (file ./delta_deltah_z2_vol_256.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: /usr/bin/pdflatex (file ./delta_deltah_z2_vol_256.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
 > <./delta_deltah_z1_vol_256.pdf
 
-pdfTeX warning: pdflatex (file ./delta_deltah_z1_vol_256.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->]
+pdfTeX warning: /usr/bin/pdflatex (file ./delta_deltah_z1_vol_256.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>] [10]
 Package epstopdf Info: Source file: <newtonian_window.eps>
-(epstopdf)                    date: 2014-05-28 12:01:10
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 85065 bytes
 (epstopdf)             Output file: <newtonian_window-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-07-27 16:26:05
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 8206 bytes
 (epstopdf)             Command: <repstopdf --outfile=newtonian_window-eps-conve
 rted-to.pdf newtonian_window.eps>
-(epstopdf)             \includegraphics on input line 420.
+(epstopdf)             \includegraphics on input line 423.
 Package epstopdf Info: Output file is already uptodate.
- <newtonian_window-eps-converted-to.pdf, id=356819, 361.35pt x 361.35pt>
+
+<newtonian_window-eps-converted-to.pdf, id=356822, 361.35pt x 361.35pt>
 File: newtonian_window-eps-converted-to.pdf Graphic file (type pdf)
 
 <use newtonian_window-eps-converted-to.pdf>
 Package pdftex.def Info: newtonian_window-eps-converted-to.pdf used on input li
-ne 420.
+ne 423.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
- [10] [11 <./newtonian_window-eps-converted-to.pdf>]
+ [11 <./newtonian_window-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <window_nobiases.eps>
-(epstopdf)                    date: 2014-02-06 17:21:02
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 83272 bytes
 (epstopdf)             Output file: <window_nobiases-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-07-27 16:26:07
+(epstopdf)                    date: 2014-08-01 23:23:51
 (epstopdf)                    size: 7568 bytes
 (epstopdf)             Command: <repstopdf --outfile=window_nobiases-eps-conver
 ted-to.pdf window_nobiases.eps>
-(epstopdf)             \includegraphics on input line 514.
+(epstopdf)             \includegraphics on input line 517.
 Package epstopdf Info: Output file is already uptodate.
 
 <window_nobiases-eps-converted-to.pdf, id=356837, 361.35pt x 361.35pt>
@@ -709,55 +767,53 @@ File: window_nobiases-eps-converted-to.pdf Graphic file (type pdf)
 
 <use window_nobiases-eps-converted-to.pdf>
 Package pdftex.def Info: window_nobiases-eps-converted-to.pdf used on input lin
-e 514.
+e 517.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
  [12 <./window_nobiases-eps-converted-to.pdf>]
-Overfull \hbox (10.58255pt too wide) in alignment at lines 611--617
+Overfull \hbox (10.58255pt too wide) in alignment at lines 614--620
  [][][] []
  []
 
-(./window.bbl [13]) [14] (./window.aux)
+[13] (./window.bbl) [14] (./window.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5435 strings out of 493315
- 75317 string characters out of 6137904
- 192111 words of memory out of 5000000
- 8761 multiletter control sequences out of 15000+600000
+ 5434 strings out of 494955
+ 74814 string characters out of 6179869
+ 189175 words of memory out of 5000000
+ 8524 multiletter control sequences out of 15000+600000
  13480 words of font info for 53 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
+ 59 hyphenation exceptions out of 8191
  39i,11n,29p,2396b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
-pe1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on window.pdf (14 pages, 148278174 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on window.pdf (14 pages, 148281579 bytes).
 PDF statistics:
  356929 PDF objects out of 409690 (max. 8388607)
  442 compressed objects within 5 object streams

@@ -1,0 +1,101 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Bardeen} {et~al.}(1986){Bardeen}, {Bond}, {Kaiser}, \&
+  {Szalay}}]{1986ApJ...304...15B}
+{Bardeen}, J.~M., {Bond}, J.~R., {Kaiser}, N., \& {Szalay}, A.~S. 1986, \apj,
+  304, 15
+
+\bibitem[{{Barkana} \& {Loeb}(2005)}]{2005ApJ...626....1B}
+{Barkana}, R., \& {Loeb}, A. 2005, \apj, 626, 1
+
+\bibitem[{{Bharadwaj} \& {Ali}(2004)}]{2004MNRAS.352..142B}
+{Bharadwaj}, S., \& {Ali}, S.~S. 2004, \mnras, 352, 142
+
+\bibitem[{{Broderick} {et~al.}(2012){Broderick}, {Chang}, \&
+  {Pfrommer}}]{2012ApJ...752...22B}
+{Broderick}, A.~E., {Chang}, P., \& {Pfrommer}, C. 2012, \apj, 752, 22
+
+\bibitem[{{Chang} {et~al.}(2012){Chang}, {Broderick}, \&
+  {Pfrommer}}]{2012ApJ...752...23C}
+{Chang}, P., {Broderick}, A.~E., \& {Pfrommer}, C. 2012, \apj, 752, 23
+
+\bibitem[{{Clowes} {et~al.}(2013){Clowes}, {Harris}, {Raghunathan},
+  {Campusano}, {S{\"o}chting}, \& {Graham}}]{2013MNRAS.429.2910C}
+{Clowes}, R.~G., {Harris}, K.~A., {Raghunathan}, S., {et~al.} 2013, \mnras,
+  429, 2910
+
+\bibitem[{{Cooray} \& {Sheth}(2002)}]{2002PhR...372....1C}
+{Cooray}, A., \& {Sheth}, R. 2002, \physrep, 372, 1
+
+\bibitem[{{Franceschini} {et~al.}(2008){Franceschini}, {Rodighiero}, \&
+  {Vaccari}}]{2008A&A...487..837F}
+{Franceschini}, A., {Rodighiero}, G., \& {Vaccari}, M. 2008, \aap, 487, 837
+
+\bibitem[{{Gould} \& {Schr{\'e}der}(1967)}]{1967PhRv..155.1408G}
+{Gould}, R.~J., \& {Schr{\'e}der}, G.~P. 1967, Physical Review, 155, 1408
+
+\bibitem[{{Gunn} \& {Gott}(1972)}]{1972ApJ...176....1G}
+{Gunn}, J.~E., \& {Gott}, III, J.~R. 1972, \apj, 176, 1
+
+\bibitem[{{Heath}(1977)}]{1977MNRAS.179..351H}
+{Heath}, D.~J. 1977, \mnras, 179, 351
+
+\bibitem[{{Hopkins} {et~al.}(2007){Hopkins}, {Richards}, \&
+  {Hernquist}}]{2007ApJ...654..731H}
+{Hopkins}, P.~F., {Richards}, G.~T., \& {Hernquist}, L. 2007, \apj, 654, 731
+
+\bibitem[{{Kaiser}(1987)}]{1987MNRAS.227....1K}
+{Kaiser}, N. 1987, \mnras, 227, 1
+
+\bibitem[{{Kauffmann} {et~al.}(1999){Kauffmann}, {Colberg}, {Diaferio}, \&
+  {White}}]{1999MNRAS.307..529K}
+{Kauffmann}, G., {Colberg}, J.~M., {Diaferio}, A., \& {White}, S.~D.~M. 1999,
+  \mnras, 307, 529
+
+\bibitem[{{Kneiske} {et~al.}(2004){Kneiske}, {Bretz}, {Mannheim}, \&
+  {Hartmann}}]{2004A&A...413..807K}
+{Kneiske}, T.~M., {Bretz}, T., {Mannheim}, K., \& {Hartmann}, D.~H. 2004, \aap,
+  413, 807
+
+\bibitem[{{Mann} {et~al.}(1998){Mann}, {Peacock}, \&
+  {Heavens}}]{1998MNRAS.293..209M}
+{Mann}, R.~G., {Peacock}, J.~A., \& {Heavens}, A.~F. 1998, \mnras, 293, 209
+
+\bibitem[{{Mo} \& {White}(1996)}]{1996MNRAS.282..347M}
+{Mo}, H.~J., \& {White}, S.~D.~M. 1996, \mnras, 282, 347
+
+\bibitem[{{Neronov} \& {Semikoz}(2009)}]{2009PhRvD..80l3012N}
+{Neronov}, A., \& {Semikoz}, D.~V. 2009, \prd, 80, 123012
+
+\bibitem[{{Peebles}(1982)}]{Peebles}
+{Peebles}, P. 1982, {Principles of Physical Cosmology}, ed. T.~Anderson,
+  Wightman (Princeton University Press)
+
+\bibitem[{{Pritchard} \& {Furlanetto}(2007)}]{2007MNRAS.376.1680P}
+{Pritchard}, J.~R., \& {Furlanetto}, S.~R. 2007, \mnras, 376, 1680
+
+\bibitem[{{Stecker} {et~al.}(2006){Stecker}, {Malkan}, \&
+  {Scully}}]{2006ApJ...648..774S}
+{Stecker}, F.~W., {Malkan}, M.~A., \& {Scully}, S.~T. 2006, \apj, 648, 774
+
+\bibitem[{{Tegmark} {et~al.}(2004){Tegmark}, {Blanton}, {Strauss}, {Hoyle},
+  {Schlegel}, {Scoccimarro}, {Vogeley}, {Weinberg}, {Zehavi}, {Berlind},
+  {Budavari}, {Connolly}, {Eisenstein}, {Finkbeiner}, {Frieman}, {Gunn},
+  {Hamilton}, {Hui}, {Jain}, {Johnston}, {Kent}, {Lin}, {Nakajima}, {Nichol},
+  {Ostriker}, {Pope}, {Scranton}, {Seljak}, {Sheth}, {Stebbins}, {Szalay},
+  {Szapudi}, {Verde}, {Xu}, {Annis}, {Bahcall}, {Brinkmann}, {Burles},
+  {Castander}, {Csabai}, {Loveday}, {Doi}, {Fukugita}, {Gott}, {Hennessy},
+  {Hogg}, {Ivezi{\'c}}, {Knapp}, {Lamb}, {Lee}, {Lupton}, {McKay}, {Kunszt},
+  {Munn}, {O'Connell}, {Peoples}, {Pier}, {Richmond}, {Rockosi}, {Schneider},
+  {Stoughton}, {Tucker}, {Vanden Berk}, {Yanny}, {York}, \& {SDSS
+  Collaboration}}]{2004ApJ...606..702T}
+{Tegmark}, M., {Blanton}, M.~R., {Strauss}, M.~A., {et~al.} 2004, \apj, 606,
+  702
+
+\bibitem[{{Weinberg} {et~al.}(2004){Weinberg}, {Dav{\'e}}, {Katz}, \&
+  {Hernquist}}]{2004ApJ...601....1W}
+{Weinberg}, D.~H., {Dav{\'e}}, R., {Katz}, N., \& {Hernquist}, L. 2004, \apj,
+  601, 1
+
+\end{thebibliography}

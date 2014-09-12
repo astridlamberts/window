@@ -70,6 +70,9 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Pfrommer}}]{2012ApJ...752...22B}
 {Broderick}, A.~E., {Chang}, P., \& {Pfrommer}, C. 2012, \apj, 752, 22
 
+\bibitem[{{Cavaliere} \& {D'Elia}(2002)}]{2002ApJ...571..226C}
+{Cavaliere}, A., \& {D'Elia}, V. 2002, \apj, 571, 226
+
 \bibitem[{{Chang} {et~al.}(2012){Chang}, {Broderick}, \&
   {Pfrommer}}]{2012ApJ...752...23C}
 {Chang}, P., {Broderick}, A.~E., \& {Pfrommer}, C. 2012, \apj, 752, 23
@@ -166,6 +169,11 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Hernquist}}]{2007ApJ...654..731H}
 {Hopkins}, P.~F., {Richards}, G.~T., \& {Hernquist}, L. 2007, \apj, 654, 731
 
+\bibitem[{{Hyv{\"o}nen} {et~al.}(2007){Hyv{\"o}nen}, {Kotilainen}, {Falomo},
+  {{\"O}rndahl}, \& {Pursimo}}]{2007A&A...476..723H}
+{Hyv{\"o}nen}, T., {Kotilainen}, J.~K., {Falomo}, R., {{\"O}rndahl}, E., \&
+  {Pursimo}, T. 2007, \aap, 476, 723
+
 \bibitem[{{Kaiser}(1987)}]{1987MNRAS.227....1K}
 {Kaiser}, N. 1987, \mnras, 227, 1
 
@@ -177,11 +185,6 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Sasaki}, {Sato}, {Sekiguchi}, {Shioya}, {Tamura}, {Taniguchi}, {Umemura},
   {Yamada}, \& {Yasuda}}]{2006ApJ...637..631K}
 {Kashikawa}, N., {Yoshida}, M., {Shimasaku}, K., {et~al.} 2006, \apj, 637, 631
-
-\bibitem[{{Kauffmann} {et~al.}(1999){Kauffmann}, {Colberg}, {Diaferio}, \&
-  {White}}]{1999MNRAS.307..529K}
-{Kauffmann}, G., {Colberg}, J.~M., {Diaferio}, A., \& {White}, S.~D.~M. 1999,
-  \mnras, 307, 529
 
 \bibitem[{{Kneiske} {et~al.}(2004){Kneiske}, {Bretz}, {Mannheim}, \&
   {Hartmann}}]{2004A&A...413..807K}
@@ -197,9 +200,10 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
 \bibitem[{{Kravtsov}(2010)}]{2010AdAst2010E...8K}
 {Kravtsov}, A. 2010, Advances in Astronomy, 2010, arXiv:0906.3295
 
-\bibitem[{{Mann} {et~al.}(1998){Mann}, {Peacock}, \&
-  {Heavens}}]{1998MNRAS.293..209M}
-{Mann}, R.~G., {Peacock}, J.~A., \& {Heavens}, A.~F. 1998, \mnras, 293, 209
+\bibitem[{{Lister} {et~al.}(2013){Lister}, {Aller}, {Aller}, {Homan},
+  {Kellermann}, {Kovalev}, {Pushkarev}, {Richards}, {Ros}, \&
+  {Savolainen}}]{2013AJ....146..120L}
+{Lister}, M.~L., {Aller}, M.~F., {Aller}, H.~D., {et~al.} 2013, \aj, 146, 120
 
 \bibitem[{{Marinoni} {et~al.}(2005){Marinoni}, {Le F{\`e}vre}, {Meneux},
   {Iovino}, {Pollo}, {Ilbert}, {Zamorani}, {Guzzo}, {Mazure}, {Scaramella},
@@ -243,6 +247,11 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Broderick}, \& {Chang}}]{2012MNRAS.423..149P}
 {Puchwein}, E., {Pfrommer}, C., {Springel}, V., {Broderick}, A.~E., \& {Chang},
   P. 2012, \mnras, 423, 149
+
+\bibitem[{{Pushkarev} {et~al.}(2009){Pushkarev}, {Kovalev}, {Lister}, \&
+  {Savolainen}}]{2009A&A...507L..33P}
+{Pushkarev}, A.~B., {Kovalev}, Y.~Y., {Lister}, M.~L., \& {Savolainen}, T.
+  2009, \aap, 507, L33
 
 \bibitem[{{Rauch} {et~al.}(1997){Rauch}, {Miralda-Escude}, {Sargent}, {Barlow},
   {Weinberg}, {Hernquist}, {Katz}, {Cen}, \& {Ostriker}}]{1997ApJ...489....7R}
@@ -305,19 +314,8 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Scully}}]{2006ApJ...648..774S}
 {Stecker}, F.~W., {Malkan}, M.~A., \& {Scully}, S.~T. 2006, \apj, 648, 774
 
-\bibitem[{{Tegmark} {et~al.}(2004){Tegmark}, {Blanton}, {Strauss}, {Hoyle},
-  {Schlegel}, {Scoccimarro}, {Vogeley}, {Weinberg}, {Zehavi}, {Berlind},
-  {Budavari}, {Connolly}, {Eisenstein}, {Finkbeiner}, {Frieman}, {Gunn},
-  {Hamilton}, {Hui}, {Jain}, {Johnston}, {Kent}, {Lin}, {Nakajima}, {Nichol},
-  {Ostriker}, {Pope}, {Scranton}, {Seljak}, {Sheth}, {Stebbins}, {Szalay},
-  {Szapudi}, {Verde}, {Xu}, {Annis}, {Bahcall}, {Brinkmann}, {Burles},
-  {Castander}, {Csabai}, {Loveday}, {Doi}, {Fukugita}, {Gott}, {Hennessy},
-  {Hogg}, {Ivezi{\'c}}, {Knapp}, {Lamb}, {Lee}, {Lupton}, {McKay}, {Kunszt},
-  {Munn}, {O'Connell}, {Peoples}, {Pier}, {Richmond}, {Rockosi}, {Schneider},
-  {Stoughton}, {Tucker}, {Vanden Berk}, {Yanny}, {York}, \& {SDSS
-  Collaboration}}]{2004ApJ...606..702T}
-{Tegmark}, M., {Blanton}, M.~R., {Strauss}, M.~A., {et~al.} 2004, \apj, 606,
-  702
+\bibitem[{{Stecker} \& {Salamon}(1996)}]{1996ApJ...464..600S}
+{Stecker}, F.~W., \& {Salamon}, M.~H. 1996, \apj, 464, 600
 
 \bibitem[{{Viel} {et~al.}(2009){Viel}, {Bolton}, \&
   {Haehnelt}}]{2009MNRAS.399L..39V}
@@ -331,11 +329,6 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Neronov}}]{2012ApJ...747L..14V}
 {Vovk}, I., {Taylor}, A.~M., {Semikoz}, D., \& {Neronov}, A. 2012, \apjl, 747,
   L14
-
-\bibitem[{{Weinberg} {et~al.}(2004){Weinberg}, {Dav{\'e}}, {Katz}, \&
-  {Hernquist}}]{2004ApJ...601....1W}
-{Weinberg}, D.~H., {Dav{\'e}}, R., {Katz}, N., \& {Hernquist}, L. 2004, \apj,
-  601, 1
 
 \bibitem[{{Werner} {et~al.}(2010){Werner}, {Simionescu}, {Million}, {Allen},
   {Nulsen}, {von der Linden}, {Hansen}, {B{\"o}hringer}, {Churazov}, {Fabian},

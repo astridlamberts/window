@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.8)  10 SEP 2014 14:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.8)  11 SEP 2014 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -355,56 +355,67 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+lasy on input line 39.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 2310) in paragraph at lines 50--51
-\OT1/cmr/m/n/10 high en-ergy gamma rays (VHEGR, E$\OMS/cmsy/m/n/10 ^^U$\OT1/cmr
-/m/n/10 100 GeV).
+Underfull \hbox (badness 6625) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 high en-ergy gamma rays (E$\OMS/cmsy/m/n/10 ^^U$\OT1/cmr/m/n/10
+ 100 GeV). About
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
-LaTeX Warning: Reference `sec:bias' on page 3 undefined on input line 126.
+Underfull \hbox (badness 2961) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 50 of these sources have been dis-cov-ered so far
+ []
 
 
-Overfull \hbox (20.51149pt too wide) detected at line 160
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 (http://tevcat.uchicago.edu/), by the space-based
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 2150) in paragraph at lines 97--99
+|   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+[2]
+Overfull \hbox (20.51149pt too wide) detected at line 162
 \OT1/cmr/m/n/10 ^^H[](\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 ) = 10[]\OML/cmm/m/it/1
 0 :
  []
 
 [3]
 Package epstopdf Info: Source file: <window_gal_qso.eps>
-(epstopdf)                    date: 2014-09-10 10:38:31
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 87125 bytes
 (epstopdf)             Output file: <window_gal_qso-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-09-10 10:39:31
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 9225 bytes
 (epstopdf)             Command: <repstopdf --outfile=window_gal_qso-eps-convert
 ed-to.pdf window_gal_qso.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
  <window_gal_qso-eps-converted-to.pdf, id=31, 361.35pt x 361.35pt>
 File: window_gal_qso-eps-converted-to.pdf Graphic file (type pdf)
 
 <use window_gal_qso-eps-converted-to.pdf>
 Package pdftex.def Info: window_gal_qso-eps-converted-to.pdf used on input line
- 190.
+ 192.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
 
-Underfull \hbox (badness 1845) in paragraph at lines 210--212
+Underfull \hbox (badness 1845) in paragraph at lines 212--214
 []|   []   |   []   |   []   |   []   |   []   |   []
  []
 
@@ -412,195 +423,205 @@ Underfull \hbox (badness 1845) in paragraph at lines 210--212
 <data_rho_z3_qso4.png, id=41, 433.62pt x 325.215pt>
 File: data_rho_z3_qso4.png Graphic file (type png)
  <use data_rho_z3_qso4.png>
-Package pdftex.def Info: data_rho_z3_qso4.png used on input line 250.
+Package pdftex.def Info: data_rho_z3_qso4.png used on input line 252.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
 
 <data_rho_z1_qso4.png, id=43, 433.62pt x 325.215pt>
 File: data_rho_z1_qso4.png Graphic file (type png)
  <use data_rho_z1_qso4.png>
-Package pdftex.def Info: data_rho_z1_qso4.png used on input line 251.
+Package pdftex.def Info: data_rho_z1_qso4.png used on input line 253.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
 
 <data_delta_z3_gal2.png, id=44, 433.62pt x 325.215pt>
 File: data_delta_z3_gal2.png Graphic file (type png)
 
 <use data_delta_z3_gal2.png>
-Package pdftex.def Info: data_delta_z3_gal2.png used on input line 252.
+Package pdftex.def Info: data_delta_z3_gal2.png used on input line 254.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
 
 <data_delta_z1_gal2.png, id=45, 433.62pt x 325.215pt>
 File: data_delta_z1_gal2.png Graphic file (type png)
 
 <use data_delta_z1_gal2.png>
-Package pdftex.def Info: data_delta_z1_gal2.png used on input line 253.
+Package pdftex.def Info: data_delta_z1_gal2.png used on input line 255.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
 
 <data_delta_z3_qso4.png, id=46, 433.62pt x 325.215pt>
 File: data_delta_z3_qso4.png Graphic file (type png)
 
 <use data_delta_z3_qso4.png>
-Package pdftex.def Info: data_delta_z3_qso4.png used on input line 255.
+Package pdftex.def Info: data_delta_z3_qso4.png used on input line 257.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
 
 <data_delta_z1_qso4.png, id=47, 433.62pt x 325.215pt>
 File: data_delta_z1_qso4.png Graphic file (type png)
 
 <use data_delta_z1_qso4.png>
-Package pdftex.def Info: data_delta_z1_qso4.png used on input line 256.
+Package pdftex.def Info: data_delta_z1_qso4.png used on input line 258.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
  <data_U_z3_gal2.png, id=48, 433.62pt x 325.215pt>
 File: data_U_z3_gal2.png Graphic file (type png)
 
 <use data_U_z3_gal2.png>
-Package pdftex.def Info: data_U_z3_gal2.png used on input line 266.
+Package pdftex.def Info: data_U_z3_gal2.png used on input line 268.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
  <data_U_z1_gal2.png, id=49, 433.62pt x 325.215pt>
 File: data_U_z1_gal2.png Graphic file (type png)
 
 <use data_U_z1_gal2.png>
-Package pdftex.def Info: data_U_z1_gal2.png used on input line 267.
+Package pdftex.def Info: data_U_z1_gal2.png used on input line 269.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
  <data_U_z3_qso4.png, id=50, 433.62pt x 325.215pt>
 File: data_U_z3_qso4.png Graphic file (type png)
 
 <use data_U_z3_qso4.png>
-Package pdftex.def Info: data_U_z3_qso4.png used on input line 269.
+Package pdftex.def Info: data_U_z3_qso4.png used on input line 271.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
  <data_U_z1_qso4.png, id=51, 433.62pt x 325.215pt>
 File: data_U_z1_qso4.png Graphic file (type png)
 
 <use data_U_z1_qso4.png>
-Package pdftex.def Info: data_U_z1_qso4.png used on input line 270.
+Package pdftex.def Info: data_U_z1_qso4.png used on input line 272.
 (pdftex.def)             Requested size: 230.90128pt x 173.17696pt.
  <T_rho_z4_256_gal2.png, id=52, 578.16pt x 433.62pt>
 File: T_rho_z4_256_gal2.png Graphic file (type png)
 
 <use T_rho_z4_256_gal2.png>
-Package pdftex.def Info: T_rho_z4_256_gal2.png used on input line 301.
+Package pdftex.def Info: T_rho_z4_256_gal2.png used on input line 303.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z4_qso_256_div4.png, id=53, 578.16pt x 433.62pt>
 File: T_rho_z4_qso_256_div4.png Graphic file (type png)
 
 <use T_rho_z4_qso_256_div4.png>
-Package pdftex.def Info: T_rho_z4_qso_256_div4.png used on input line 302.
+Package pdftex.def Info: T_rho_z4_qso_256_div4.png used on input line 304.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z3_256_gal2.png, id=54, 578.16pt x 433.62pt>
 File: T_rho_z3_256_gal2.png Graphic file (type png)
 
 <use T_rho_z3_256_gal2.png>
-Package pdftex.def Info: T_rho_z3_256_gal2.png used on input line 303.
+Package pdftex.def Info: T_rho_z3_256_gal2.png used on input line 305.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z3_qso_256_div4.png, id=55, 578.16pt x 433.62pt>
 File: T_rho_z3_qso_256_div4.png Graphic file (type png)
 
 <use T_rho_z3_qso_256_div4.png>
-Package pdftex.def Info: T_rho_z3_qso_256_div4.png used on input line 304.
+Package pdftex.def Info: T_rho_z3_qso_256_div4.png used on input line 306.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z2_256_gal2.png, id=56, 578.16pt x 433.62pt>
 File: T_rho_z2_256_gal2.png Graphic file (type png)
 
 <use T_rho_z2_256_gal2.png>
-Package pdftex.def Info: T_rho_z2_256_gal2.png used on input line 305.
+Package pdftex.def Info: T_rho_z2_256_gal2.png used on input line 307.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z2_qso_256_div4.png, id=57, 578.16pt x 433.62pt>
 File: T_rho_z2_qso_256_div4.png Graphic file (type png)
 
 <use T_rho_z2_qso_256_div4.png>
-Package pdftex.def Info: T_rho_z2_qso_256_div4.png used on input line 306.
+Package pdftex.def Info: T_rho_z2_qso_256_div4.png used on input line 308.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z1_256_gal2.png, id=58, 578.16pt x 433.62pt>
 File: T_rho_z1_256_gal2.png Graphic file (type png)
 
 <use T_rho_z1_256_gal2.png>
-Package pdftex.def Info: T_rho_z1_256_gal2.png used on input line 307.
+Package pdftex.def Info: T_rho_z1_256_gal2.png used on input line 309.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 <T_rho_z1_qso_256_div4.png, id=59, 578.16pt x 433.62pt>
 File: T_rho_z1_qso_256_div4.png Graphic file (type png)
 
 <use T_rho_z1_qso_256_div4.png>
-Package pdftex.def Info: T_rho_z1_qso_256_div4.png used on input line 308.
+Package pdftex.def Info: T_rho_z1_qso_256_div4.png used on input line 310.
 (pdftex.def)             Requested size: 215.50838pt x 161.62785pt.
 
 
-LaTeX Warning: Float too large for page by 4.39157pt on input line 311.
+LaTeX Warning: Float too large for page by 4.39157pt on input line 313.
 
 <full_PDF_256_gal_qso.pdf, id=60, 361.35pt x 325.215pt>
 File: full_PDF_256_gal_qso.pdf Graphic file (type pdf)
 
 <use full_PDF_256_gal_qso.pdf>
-Package pdftex.def Info: full_PDF_256_gal_qso.pdf used on input line 316.
+Package pdftex.def Info: full_PDF_256_gal_qso.pdf used on input line 318.
 (pdftex.def)             Requested size: 230.90128pt x 207.80937pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] <delta_deltah_z3_qso4_256.png, id=65, 578.16pt x 433.62pt>
+<delta_deltah_z3_qso4_256.png, id=61, 578.16pt x 433.62pt>
 File: delta_deltah_z3_qso4_256.png Graphic file (type png)
 
 <use delta_deltah_z3_qso4_256.png>
-Package pdftex.def Info: delta_deltah_z3_qso4_256.png used on input line 328.
+Package pdftex.def Info: delta_deltah_z3_qso4_256.png used on input line 330.
 (pdftex.def)             Requested size: 123.151pt x 92.35971pt.
 
-<delta_deltah_z1_qso4_256.png, id=66, 578.16pt x 433.62pt>
+<delta_deltah_z1_qso4_256.png, id=62, 578.16pt x 433.62pt>
 File: delta_deltah_z1_qso4_256.png Graphic file (type png)
 
 <use delta_deltah_z1_qso4_256.png>
-Package pdftex.def Info: delta_deltah_z1_qso4_256.png used on input line 329.
+Package pdftex.def Info: delta_deltah_z1_qso4_256.png used on input line 331.
 (pdftex.def)             Requested size: 123.151pt x 92.35971pt.
 
-<delta_deltah_z3_gal2_256.png, id=67, 578.16pt x 433.62pt>
+<delta_deltah_z3_gal2_256.png, id=63, 578.16pt x 433.62pt>
 File: delta_deltah_z3_gal2_256.png Graphic file (type png)
 
 <use delta_deltah_z3_gal2_256.png>
-Package pdftex.def Info: delta_deltah_z3_gal2_256.png used on input line 330.
+Package pdftex.def Info: delta_deltah_z3_gal2_256.png used on input line 332.
 (pdftex.def)             Requested size: 123.151pt x 92.35971pt.
 
-<delta_deltah_z1_gal2_256.png, id=68, 578.16pt x 433.62pt>
+<delta_deltah_z1_gal2_256.png, id=64, 578.16pt x 433.62pt>
 File: delta_deltah_z1_gal2_256.png Graphic file (type png)
 
 <use delta_deltah_z1_gal2_256.png>
-Package pdftex.def Info: delta_deltah_z1_gal2_256.png used on input line 331.
+Package pdftex.def Info: delta_deltah_z1_gal2_256.png used on input line 333.
 (pdftex.def)             Requested size: 123.151pt x 92.35971pt.
 
 
 Class revtex4 Warning: Float cannot be placed.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 342.
+[5] [6 <./data_rho_z3_qso4.png> <./data_rho_z1_qso4.png> <./data_delta_z3_gal2.
+png> <./data_delta_z1_gal2.png> <./data_delta_z3_qso4.png> <./data_delta_z1_qso
+4.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 357.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 342.
- [6 <./data_rho_z3_qso4.png> <./data_rho_z1_qso4.png> <./data_delta_z3_gal2.png
-> <./data_delta_z1_gal2.png> <./data_delta_z3_qso4.png> <./data_delta_z1_qso4.p
-ng>] [7 <./data_U_z3_gal2.png> <./data_U_z1_gal2.png> <./data_U_z3_qso4.png> <.
-/data_U_z1_qso4.png>]
-[8 <./T_rho_z4_256_gal2.png> <./T_rho_z4_qso_256_div4.png> <./T_rho_z3_256_gal2
-.png> <./T_rho_z3_qso_256_div4.png> <./T_rho_z2_256_gal2.png> <./T_rho_z2_qso_2
-56_div4.png> <./T_rho_z1_256_gal2.png> <./T_rho_z1_qso_256_div4.png>] [9 <./ful
-l_PDF_256_gal_qso.pdf>]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
+ [7 <./data_U_z3_gal2.png> <./data_U_z1_gal2.png> <./data_U_z3_qso4.png> <./dat
+a_U_z1_qso4.png>] [8 <./T_rho_z4_256_gal2.png> <./T_rho_z4_qso_256_div4.png> <.
+/T_rho_z3_256_gal2.png> <./T_rho_z3_qso_256_div4.png> <./T_rho_z2_256_gal2.png>
+ <./T_rho_z2_qso_256_div4.png> <./T_rho_z1_256_gal2.png> <./T_rho_z1_qso_256_di
+v4.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 434.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 377.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 377.
+
+
+Class revtex4 Warning: Deferred float stuck during \clearpage processing.
+
+[9 <./full_PDF_256_gal_qso.pdf>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 429.
 
 [10 <./delta_deltah_z3_qso4_256.png> <./delta_deltah_z1_qso4_256.png> <./delta_
 deltah_z3_gal2_256.png> <./delta_deltah_z1_gal2_256.png>]
 Package epstopdf Info: Source file: <newtonian_window.eps>
-(epstopdf)                    date: 2014-07-29 10:08:41
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 85065 bytes
 (epstopdf)             Output file: <newtonian_window-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-07-29 10:08:41
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 8206 bytes
 (epstopdf)             Command: <repstopdf --outfile=newtonian_window-eps-conve
 rted-to.pdf newtonian_window.eps>
-(epstopdf)             \includegraphics on input line 472.
+(epstopdf)             \includegraphics on input line 483.
 Package epstopdf Info: Output file is already uptodate.
 
 <newtonian_window-eps-converted-to.pdf, id=132, 361.35pt x 361.35pt>
@@ -608,33 +629,33 @@ File: newtonian_window-eps-converted-to.pdf Graphic file (type pdf)
 
 <use newtonian_window-eps-converted-to.pdf>
 Package pdftex.def Info: newtonian_window-eps-converted-to.pdf used on input li
-ne 472.
+ne 483.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
- [11]
+ [11] [12 <./newtonian_window-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <window_nobiases.eps>
-(epstopdf)                    date: 2014-07-29 10:08:41
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 83272 bytes
 (epstopdf)             Output file: <window_nobiases-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-07-29 10:08:41
+(epstopdf)                    date: 2014-09-11 14:06:59
 (epstopdf)                    size: 7568 bytes
 (epstopdf)             Command: <repstopdf --outfile=window_nobiases-eps-conver
 ted-to.pdf window_nobiases.eps>
-(epstopdf)             \includegraphics on input line 566.
+(epstopdf)             \includegraphics on input line 577.
 Package epstopdf Info: Output file is already uptodate.
 
-<window_nobiases-eps-converted-to.pdf, id=137, 361.35pt x 361.35pt>
+<window_nobiases-eps-converted-to.pdf, id=149, 361.35pt x 361.35pt>
 File: window_nobiases-eps-converted-to.pdf Graphic file (type pdf)
 
 <use window_nobiases-eps-converted-to.pdf>
 Package pdftex.def Info: window_nobiases-eps-converted-to.pdf used on input lin
-e 566.
+e 577.
 (pdftex.def)             Requested size: 230.90128pt x 230.8993pt.
- [12 <./newtonian_window-eps-converted-to.pdf>]
 
-LaTeX Warning: Reference `sec:bias' on page 13 undefined on input line 607.
+
+LaTeX Warning: Reference `sec:bias' on page 13 undefined on input line 618.
 
 [13 <./window_nobiases-eps-converted-to.pdf>]
-Overfull \hbox (10.58255pt too wide) in alignment at lines 664--670
+Overfull \hbox (10.58255pt too wide) in alignment at lines 675--681
  [][][] []
  []
 
@@ -647,13 +668,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5011 strings out of 495028
- 68053 string characters out of 6181498
- 164199 words of memory out of 5000000
- 8089 multiletter control sequences out of 15000+600000
- 14473 words of font info for 58 fonts, out of 8000000 for 9000
+ 5018 strings out of 495028
+ 68171 string characters out of 6181498
+ 179279 words of memory out of 5000000
+ 8095 multiletter control sequences out of 15000+600000
+ 14781 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,11n,28p,2392b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,11n,28p,2392b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texliv
@@ -680,7 +701,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on window.pdf (15 pages, 5057654 bytes).
+Output written on window.pdf (15 pages, 5064838 bytes).
 PDF statistics:
  246 PDF objects out of 1000 (max. 8388607)
  147 compressed objects within 2 object streams

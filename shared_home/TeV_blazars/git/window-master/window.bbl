@@ -49,6 +49,9 @@
 {Boera}, E., {Murphy}, M.~T., {Becker}, G.~D., \& {Bolton}, J.~S. 2014, \mnras,
   441, 1916
 
+\bibitem[{{Bolton} \& {Becker}(2009)}]{2009MNRAS.398L..26B}
+{Bolton}, J.~S., \& {Becker}, G.~D. 2009, \mnras, 398, L26
+
 \bibitem[{{Bolton} {et~al.}(2014){Bolton}, {Becker}, {Haehnelt}, \&
   {Viel}}]{2014MNRAS.tmp...52B}
 {Bolton}, J.~S., {Becker}, G.~D., {Haehnelt}, M.~G., \& {Viel}, M. 2014,
@@ -81,6 +84,10 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Campusano}, {S{\"o}chting}, \& {Graham}}]{2013MNRAS.429.2910C}
 {Clowes}, R.~G., {Harris}, K.~A., {Raghunathan}, S., {et~al.} 2013, \mnras,
   429, 2910
+
+\bibitem[{{Compostella} {et~al.}(2013){Compostella}, {Cantalupo}, \&
+  {Porciani}}]{2013MNRAS.435.3169C}
+{Compostella}, M., {Cantalupo}, S., \& {Porciani}, C. 2013, \mnras, 435, 3169
 
 \bibitem[{{Cooray} \& {Sheth}(2002)}]{2002PhR...372....1C}
 {Cooray}, A., \& {Sheth}, R. 2002, \physrep, 372, 1
@@ -258,6 +265,10 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
 {Rauch}, M., {Miralda-Escude}, J., {Sargent}, W.~L.~W., {et~al.} 1997, \apj,
   489, 7
 
+\bibitem[{{Regan} {et~al.}(2007){Regan}, {Haehnelt}, \&
+  {Viel}}]{2007MNRAS.374..196R}
+{Regan}, J.~A., {Haehnelt}, M.~G., \& {Viel}, M. 2007, \mnras, 374, 196
+
 \bibitem[{{Ricotti} {et~al.}(2000){Ricotti}, {Gnedin}, \&
   {Shull}}]{2000ApJ...534...41R}
 {Ricotti}, M., {Gnedin}, N.~Y., \& {Shull}, J.~M. 2000, \apj, 534, 41
@@ -335,5 +346,10 @@ Bret, A., Firpo, M.-C., \& Deutsch, C. 2004, Phys. Rev. E, 70, 046401
   {Forman}, {Jones}, {Sanders}, \& {Taylor}}]{2010MNRAS.407.2063W}
 {Werner}, N., {Simionescu}, A., {Million}, E.~T., {et~al.} 2010, \mnras, 407,
   2063
+
+\bibitem[{{Worseck} {et~al.}(2014){Worseck}, {Prochaska}, {Hennawi}, \&
+  {McQuinn}}]{2014arXiv1405.7405W}
+{Worseck}, G., {Prochaska}, J.~X., {Hennawi}, J.~F., \& {McQuinn}, M. 2014,
+  ArXiv e-prints, arXiv:1405.7405
 
 \end{thebibliography}
